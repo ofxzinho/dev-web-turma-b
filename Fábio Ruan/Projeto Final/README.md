@@ -1,4 +1,3 @@
 dev-web-turma-b
-Fábio Ruan
 ===
-
+Fábio Ruan
